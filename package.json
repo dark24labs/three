@@ -1,0 +1,7 @@
+{
+	"name": "three",
+	"main": "build/three.module.js",
+	"files": [
+		"build/three.module.js"
+	]
+}
