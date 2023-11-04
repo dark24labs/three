@@ -1,6 +1,6 @@
 {
 	"name": "three",
-	"version": "0.107",
+	"version": "0.107.0",
 	"main": "build/three.module.js",
 	"files": [
 		"build/three.module.js"
